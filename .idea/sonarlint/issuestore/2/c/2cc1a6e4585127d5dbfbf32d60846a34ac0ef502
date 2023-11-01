@@ -1,0 +1,37 @@
+
+P
+java:S1121".Extract the assignment out of this expression.(ÄõŸêıÿÿÿÿ8ìº”Œ¸1
+K
+java:S1121".Extract the assignment out of this expression.(óöà±8üº”Œ¸1
+K
+java:S1121".Extract the assignment out of this expression.(Ã¡£ä8üº”Œ¸1
+K
+java:S1121".Extract the assignment out of this expression.(˜ü¥ñ8üº”Œ¸1
+d
+java:S2184"BCast one of the operands of this addition operation to a "double".(ÄõŸêıÿÿÿÿ8üº”Œ¸1
+b
+java:S2184"ECast one of the operands of this subtraction operation to a "double".(óöà±8üº”Œ¸1
+e
+java:S2184"HCast one of the operands of this multiplication operation to a "double".(Ã¡£ä8üº”Œ¸1
+_
+java:S2184"BCast one of the operands of this division operation to a "double".(˜ü¥ñ8üº”Œ¸1
+]
+java:S2184"@Cast one of the operands of this integer division to a "double".(˜ü¥ñ8üº”Œ¸1
+\
+java:S1854":Remove this useless assignment to local variable "result".(ÄõŸêıÿÿÿÿ8Œ»”Œ¸1
+W
+java:S1854":Remove this useless assignment to local variable "result".(óöà±8»”Œ¸1
+W
+java:S1854":Remove this useless assignment to local variable "result".(Ã¡£ä8»”Œ¸1
+W
+java:S1854":Remove this useless assignment to local variable "result".(˜ü¥ñ8»”Œ¸1
+L	java:S106"+Replace this use of System.out by a logger.(Ç§úüûÿÿÿÿ8¸ïŒ¸1
+L	java:S106"+Replace this use of System.out by a logger.(Ø¹Ğ·ıÿÿÿÿ8»”Œ¸1
+L	java:S106"+Replace this use of System.out by a logger.(äé¢†øÿÿÿÿ8»”Œ¸1
+M
+java:S1481"+Remove this unused "result" local variable.(à½‡¹ÿÿÿÿÿ8»”Œ¸1
+L	java:S106"+Replace this use of System.out by a logger.(ÄõŸêıÿÿÿÿ8»”Œ¸1
+G	java:S106"+Replace this use of System.out by a logger.(óöà±8»”Œ¸1
+G	java:S106"+Replace this use of System.out by a logger.(Ã¡£ä8»”Œ¸1
+G	java:S106"+Replace this use of System.out by a logger.(˜ü¥ñ8»”Œ¸1
+L	java:S106"+Replace this use of System.out by a logger.(®ëÎ§úÿÿÿÿ8»”Œ¸1
